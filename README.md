@@ -1,5 +1,5 @@
 # Welcome to my github
-on you'r hand a project of computer vision
+on you'r hands a project of computer vision
 that uses YOLOv5 for training custom data
 
 Basicly our model is an object detection model,
